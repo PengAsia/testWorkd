@@ -3,4 +3,6 @@ Git is free software.
 new readmed
 git has a mutable index called stage
 fdajisofda
-ajfjdioaf.
+ajfjdioa
+adfjiaosfd
+dafjiosafdf.
